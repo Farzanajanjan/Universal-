@@ -121,7 +121,7 @@ html,body{
     -moz-animation: starspluse 4s infinite alternate ;
     -o-animation: starspluse 4s infinite alternate ;
     animation: starspluse 4s infinite alternate ;
-    background: url('ss.png');
+    background: url('./ss.png');
 }
 #sun{
     position: absolute;
